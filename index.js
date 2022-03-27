@@ -1,8 +1,9 @@
 //FULL FREE WEB APIKEY
 //THANKS TO
-//YOGI
-//HANS
-//0Z4N
+//mata shakti
+//shiv jii
+//vishnu jii
+//ganesh jii
 //Makasih Untuk Developer Rest Api :) 
 //JIKA INGIN RECODE JANGAN LUPA KASIH CREDIT YA SOB :) 
 const {
@@ -60,8 +61,8 @@ memberlimit = 1
 cr = '*SGFuc0JPVA==*' 
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["916909137213@s.whatsapp.net"]   // Ganti Nomor Lu
-const pacarNumber = ["919774340154@s.whatsapp.net"]  // Ganti Jadi Nomor Bot Lu
+const ownerNumber = ["917505344967@s.whatsapp.net"]   // Ganti Nomor Lu
+const pacarNumber = ["917505344967@s.whatsapp.net"]  // Ganti Jadi Nomor Bot Lu
 /************************************/
 
        
