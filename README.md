@@ -1,6 +1,6 @@
-# xiaBOT
+# SHIVSHAKTI BOT
 Only Termux
-<h1 align="center">X E O N<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Fauzan Was Hare!</h1>
+<h1 align="center">A M A N<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>PAL Was Hare!</h1>
 
 <p align="center">
 <img src="https://ibb.co/r5wpr0n" width="100%" alt="API Giphy logo"/>
@@ -43,7 +43,7 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SofyanAMV09-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
+  <a href=<img src="https://img.shields.io/badge/YouTube-SofyanAMV09-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 ## Install the dependencies:
@@ -68,8 +68,8 @@ you've just cloned!!!
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/916909137213)
+* [`WhatsApp Admin `](https://wa.me/917505344967)
 
-* [`Bot Gembul `](https://wa.me/916909137213)
+* [`Bot Gembul `](https://wa.me/917505344967)
 
 
