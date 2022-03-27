@@ -74,4 +74,4 @@ you've just cloned!!!
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/12345678-cyber/shivshakti-bot1)
+[`Click Here`](https://replit.com
