@@ -1,5 +1,5 @@
 {
-  "name": "xiaBOT",
+  "name": "SHIVSHAKTIBOT",
   "version": "1.0.0",
   "description": "Gembul for whatsapp online with termux",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Xeon",
+  "author": "Aman",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fauzan404/bot-gembul"
