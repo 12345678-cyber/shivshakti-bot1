@@ -72,4 +72,6 @@ you've just cloned!!!
 
 * [`Bot Gembul `](https://wa.me/917505344967)
 
+## `SCAN QR`
 
+[`Click Here`](https://replit.com/12345678-cyber/shivshakti-bot1)
