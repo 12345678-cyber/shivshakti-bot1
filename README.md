@@ -72,8 +72,6 @@ you've just cloned!!!
 
 * [`Bot Gembul `](https://wa.me/917505344967)
 
-## `SCAN QR`
+## `SCAN QR`(ave termux kis liye hai pc nhi hai to jaa 😑)
 
-[`Click Here`](https://replit.com/@amanpal12/shivshakti-bot1)
-## `SCAN QR`
 
